@@ -1,5 +1,5 @@
 # DCLR
-The official implementation of DCLR's code.
+The official implementation of DCLR's code. https://doi.org/10.1016/j.engappai.2026.114901
 
 ## Paper: Semi-supervised medical image segmentation method via dual-view graph contrastive learning and latent space uncertainty rectification
 
