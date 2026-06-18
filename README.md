@@ -33,6 +33,10 @@ python inference_mydata.py
 Part of the code is revised from the https://github.com/HiLab-git/SSL4MIS
 
 
+
+# Citation:
+
+Dongxu Cheng, Qiwei Dong, Yan Yang, Yan Wang, Ruian Zhu, Yuhui Zheng. Semi-supervised medical image segmentation method via dual-view graph contrastive learning and latent space uncertainty rectification[J]. Engineering Applications of Artificial Intelligence, 2026, 177: 114901.
+
 # Note
 The repository is being updated.
-
