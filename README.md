@@ -38,5 +38,15 @@ Part of the code is revised from the https://github.com/HiLab-git/SSL4MIS
 
 Dongxu Cheng, Qiwei Dong, Yan Yang, Yan Wang, Ruian Zhu, Yuhui Zheng. Semi-supervised medical image segmentation method via dual-view graph contrastive learning and latent space uncertainty rectification[J]. Engineering Applications of Artificial Intelligence, 2026, 177: 114901.
 
+@article{CHENG2026114901,  
+title = {Semi-supervised medical image segmentation method via dual-view graph contrastive learning and latent space uncertainty rectification},  
+journal = {Engineering Applications of Artificial Intelligence},   
+volume = {177},  
+pages = {114901},  
+year = {2026},  
+issn = {0952-1976},  
+author = {Dongxu Cheng and Qiwei Dong and Yan Yang and Yan Wang and Ruian Zhu and Yuhui Zheng},  
+}
+
 # Note
 The repository is being updated.
