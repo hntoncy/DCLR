@@ -35,7 +35,7 @@ Part of the code is revised from the https://github.com/HiLab-git/SSL4MIS
 
 
 # Citation:
-If you use or build upon this work, please cite the main paper:
+If our work is helpful to your research, please cite our paper following this.
 
 Dongxu Cheng, Qiwei Dong, Yan Yang, Yan Wang, Ruian Zhu, Yuhui Zheng. Semi-supervised medical image segmentation method via dual-view graph contrastive learning and latent space uncertainty rectification[J]. Engineering Applications of Artificial Intelligence, 2026, 177: 114901.
 
